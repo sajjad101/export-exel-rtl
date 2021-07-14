@@ -96,5 +96,6 @@ props: {
   },
 ```
 ## Status
-![git](https://github.com/sajjad101/export-exel-rtl)
-![npm](https://www.npmjs.com/package/export-excel-rtl)
+https://github.com/sajjad101/export-exel-rtl
+
+https://www.npmjs.com/package/export-excel-rtl
